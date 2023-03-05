@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Realesate Analytics](https://github.com/Trifa01/realestate-analytics)
+- 🔭 I’m currently working on [Realesate Analytics](https://trifa01-realestate-analytics-appapp-bwewdu.streamlit.app/)
 
 <!--
 **Trifa01/Trifa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
