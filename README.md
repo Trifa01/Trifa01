@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Check out my [Realesate Analytics Website](https://trifa01-realestate-analytics-appapp-bwewdu.streamlit.app/)
+- 🔭 Check out my [Realesate Analytics Website](https://web-realestatetn-1.azurewebsites.net/)
 
 <!--
 **Trifa01/Trifa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
