@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Ahmed Trifa
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Senior Data Engineer | Databricks Champion | Azure & Data Lakehouse Expert**
 
-## Commands
+📍 Suresnes, France  
+📧 [ahmed.trifa1@gmail.com](mailto:ahmed.trifa1@gmail.com)  
+📞 +33 6 63 14 55 84  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-trifa-6a919ba8/)  
+📝 [Medium](https://medium.com/@ahmed.trifa1)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Welcome! I'm Ahmed, a Senior Data Engineer passionate about building cloud-native data platforms and sharing what I learn.  
+This site highlights my personal projects, articles, and professional journey.

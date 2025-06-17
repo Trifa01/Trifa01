@@ -1,1 +1,28 @@
-site_name: My Docs
+site_name: Ahmed Trifa – Data Engineer & Writer
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: teal
+    accent: orange
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Medium: medium.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Education: education.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ahmed-trifa-6a919ba8/
+      name: LinkedIn
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@ahmed.trifa1
+      name: Medium
